@@ -38,4 +38,4 @@ Bộ dữ liệu này chứa tất cả các chỉ số khác ở mỗi Quận. 
 
 Dự án không chỉ là một bài tập phân tích dữ liệu thông thường, mà nó còn mở ra một góc nhìn sâu sắc về sức khỏe cộng đồng, giúp hiểu rõ hơn về sự chênh lệch trong tử vong sớm giữa các Quận tại Hoa Kỳ. Với mô hình dự đoán, tôi kỳ vọng có thể tạo ra một công cụ hữu ích để dự đoán tỷ lệ tử vong dựa trên các yếu tố sức khỏe quan trọng.
 
-Hy vọng rằng những gì bạn học được từ dự án này sẽ giúp ích cho bạn trong những dự án phân tích dữ liệu khác, cũng như trong sự nghiệp phát triển kỹ năng lập trình của mình. Hãy cùng khám phá!
+Xin mời các bạn xem và tham khảo source code của tôi. Hy vọng rằng những gì bạn học được từ dự án này sẽ giúp ích cho bạn trong những dự án phân tích dữ liệu khác, nó sẽ mang lại cho bạn những ý tưởng hữu ích, cũng như trong sự nghiệp phát triển kỹ năng lập trình của mình.
