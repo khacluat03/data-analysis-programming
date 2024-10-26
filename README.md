@@ -1,6 +1,6 @@
 # LẬP TRÌNH PHÂN TÍCH DỮ LIỆU
 
-Chào mừng bạn đến với project phân tích dữ liệu của tôi! Dự án này được thực hiện trong khuôn khổ môn học "Lập trình Phân tích Dữ liệu" và nhằm mục đích áp dụng các kiến thức đã học vào thực tế. 
+Chào mừng bạn đến với project phân tích dữ liệu của tôi! Dự án này được thực hiện để củng cố kiến thức Phân tích Dữ liệu và trực quan hóa dữ liệu. 
 
 ## Mục tiêu dự án
 
@@ -8,7 +8,7 @@ Trong project này, tôi sẽ phân tích dữ liệu liên quan đến tỷ l�
 
 1. **Phân tích và trực quan hóa dữ liệu**: Trình bày bảng số liệu và tạo các biểu đồ trực quan về tỷ lệ số năm mất sớm (YPLL Rate) theo từng Quận bằng cách sử dụng thư viện pandas và matplotlib.
   
-2. **Xây dựng mô hình dự đoán**: Từ bộ dữ liệu `additional-measures.csv`, tôi sẽ sử dụng các chỉ số khác để dự đoán tỷ lệ tử vong sớm (YPLL Rate). Đây là bước quan trọng trong việc hiểu rõ mối quan hệ giữa các chỉ số y tế và tỷ lệ tử vong.
+2. **Xây dựng mô hình hồi quy**: Từ bộ dữ liệu `additional-measures.csv`, tôi sẽ sử dụng các chỉ số khác để dự đoán tỷ lệ tử vong sớm (YPLL Rate). Đây là bước quan trọng trong việc hiểu rõ mối quan hệ giữa các chỉ số y tế và tỷ lệ tử vong.
 
 ## Bài 1:
 
@@ -38,4 +38,4 @@ Bộ dữ liệu này chứa tất cả các chỉ số khác ở mỗi Quận. 
 
 Dự án không chỉ là một bài tập phân tích dữ liệu thông thường, mà nó còn mở ra một góc nhìn sâu sắc về sức khỏe cộng đồng, giúp hiểu rõ hơn về sự chênh lệch trong tử vong sớm giữa các Quận tại Hoa Kỳ. Với mô hình dự đoán, tôi kỳ vọng có thể tạo ra một công cụ hữu ích để dự đoán tỷ lệ tử vong dựa trên các yếu tố sức khỏe quan trọng.
 
-Xin mời các bạn xem và tham khảo source code của tôi. Hy vọng rằng những gì bạn học được từ dự án này sẽ giúp ích cho bạn trong những dự án phân tích dữ liệu khác, nó sẽ mang lại cho bạn những ý tưởng hữu ích, cũng như trong sự nghiệp phát triển kỹ năng lập trình của mình.
+Mời các bạn xem và tham khảo source code của tôi. Hy vọng rằng những gì bạn học được từ dự án này sẽ giúp ích cho bạn trong những dự án phân tích dữ liệu khác, nó sẽ mang lại cho bạn những ý tưởng hữu ích, cũng như trong sự nghiệp phát triển kỹ năng lập trình của mình.
