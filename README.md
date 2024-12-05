@@ -10,7 +10,7 @@ Trong project này, tôi sẽ phân tích dữ liệu liên quan đến tỷ l�
   
 2. **Xây dựng mô hình hồi quy**: Từ bộ dữ liệu `additional-measures.csv`, tôi sẽ sử dụng các chỉ số khác để dự đoán tỷ lệ tử vong sớm (YPLL Rate). Đây là bước quan trọng trong việc hiểu rõ mối quan hệ giữa các chỉ số y tế và tỷ lệ tử vong.
 
-## Bài 1:
+## Phần 1:
 
 Sử dụng bộ dữ liệu `ypll.csv` chứa tỷ lệ số năm mất sớm trong 100000 người ở mỗi Quận tại Hoa Kỳ với các thuộc tính:
 
@@ -22,7 +22,7 @@ Sử dụng bộ dữ liệu `ypll.csv` chứa tỷ lệ số năm mất sớm t
 
 Bộ dữ liệu YPLL được sử dụng để đo tỷ lệ tử vong sớm (trước 75 tuổi). Mỗi dòng dữ liệu được đo trong 100000 người (một trăm nghìn người) và tính tổng số năm họ mất sớm hơn trước 75 tuổi. Ví dụ, một người mất năm 73 tuổi thì xem như họ mất sớm 2 năm. Nếu họ mất năm 77 tuổi thì số năm mất sớm là 0 năm.
 
-## Bài 2: 
+## Phần 2: 
 
 Sử dụng bộ dữ liệu `additional-measures.csv`
 
