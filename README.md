@@ -1,7 +1,5 @@
 # LẬP TRÌNH PHÂN TÍCH DỮ LIỆU
 
-Chào mừng bạn đến với project phân tích dữ liệu của tôi! Dự án này được thực hiện để củng cố kiến thức Phân tích Dữ liệu và trực quan hóa dữ liệu. 
-
 ## Mục tiêu dự án
 
 Trong project này, tôi sẽ phân tích dữ liệu liên quan đến tỷ lệ tử vong sớm tại các Quận ở Hoa Kỳ. Cụ thể, dự án bao gồm:
